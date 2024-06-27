@@ -1,0 +1,7 @@
+.toggleHabilitado:hover {
+    cursor: pointer;
+}
+
+.toggleHabilitado:checked {
+    background-color: yellow;
+}

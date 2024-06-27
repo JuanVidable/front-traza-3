@@ -1,0 +1,7 @@
+.nav-bar-box {
+    position: fixed;
+    justify-content: space-between; /* Distribute links evenly */ 
+    top: 0;
+    left: 0;
+    width: 100%; /* Make the navbar full width */
+}

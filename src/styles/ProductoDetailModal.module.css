@@ -1,0 +1,37 @@
+.title{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.title {
+    margin: 0;
+}
+
+.habilitadoBox {
+    border: 1px solid rgb(57, 252, 57);
+    border-radius: 8%;
+}
+
+.habilitadoLabel {
+    font-size: medium;
+    color: rgb(57, 252, 57);
+    text-align: center;
+    border: none;
+    margin: 0;
+}
+
+.deshabilitadoBox {
+    border: 1px solid rgb(136, 138, 136);
+    border-radius: 8%;
+}
+
+.deshabilitadoLabel {
+    font-size: medium;
+    color: rgb(136, 138, 136);
+    text-align: center;
+    border: none;
+    margin: 0;
+}

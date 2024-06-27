@@ -1,0 +1,57 @@
+.grid-container {
+    font-size:larger;
+}
+
+.search {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    margin-right: 5%;
+}
+
+.search:hover {
+    background-color: rgb(247, 246, 246);
+}
+
+.search-container{
+    display: flex;
+    justify-content:space-between;
+    row-gap: 2;
+}
+
+.btnClose {
+    background-color: darkseagreen;
+    border-color: darkseagreen;
+    color: darkslategray;
+}
+
+.btnClose:hover {
+    background-color: white;
+    border-color: darkslategray;
+    color: darkslategray;
+}
+
+.btnClose:active {
+    background-color: darkseagreen;
+    border-color: darkseagreen;
+    color: darkslategray;
+}
+
+.btnAdd {
+    background-color: darksalmon;
+    border-color: darksalmon;
+    color: rgb(126, 52, 65);
+}
+
+.btnAdd:hover {
+    background-color: white;
+    border-color: rgb(126, 52, 65);
+    color: rgb(126, 52, 65);
+}
+
+.btnAdd:active {
+    background-color: darksalmon;
+    border-color: darksalmon;
+    color: rgb(126, 52, 65);
+}

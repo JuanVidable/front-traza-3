@@ -1,0 +1,43 @@
+.mainBox {
+    width: 100%;
+    margin: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+
+.headerBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btnAdd {
+    background-color: #2196f3;
+    border-color: #2196f3;
+    color: white;
+}
+
+.btnAdd:hover {
+    background-color: white;
+    border-color: #3f51b5;
+    color:#3f51b5;
+}
+
+.btnAdd:active {
+    background-color: #2196f3;
+    border-color: #2196f3;
+    color: #3f51b5;
+}
+
+.detalleRow {
+    border-bottom: 1px lightslategray;
+}
+
+span {
+    display:block;
+    width:100% /*or whatever width you want the effect of <hr>*/;
+    border-top: 1px solid #ccc
+}

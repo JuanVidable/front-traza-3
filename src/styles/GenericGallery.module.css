@@ -1,0 +1,11 @@
+.carouselItem {
+    width: 20rem;
+    height: 20rem;
+    text-align: center;
+    align-content: center;
+}
+
+.carouselItem img {
+    max-width: 100%;
+    max-height: 100%;
+}

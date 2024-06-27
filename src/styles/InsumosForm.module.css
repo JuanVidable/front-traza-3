@@ -1,0 +1,19 @@
+.mainBox {
+    width: 100%;
+    margin: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+
+.headerBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.formBox {
+    text-align: left;
+}

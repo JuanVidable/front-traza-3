@@ -1,0 +1,18 @@
+.uploadContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.btnUpload {
+    background-color: rgb(13, 166, 115);
+    border-color: rgb(13, 166, 115);
+    width: 10rem;
+}
+
+.btnUpload:hover {
+    background-color: rgb(8, 98, 68);
+    border-color: rgb(8, 98, 68);
+}

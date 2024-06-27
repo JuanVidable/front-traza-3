@@ -1,0 +1,28 @@
+.galleryContainer {
+    display: flex;
+    overflow-x: auto;
+    justify-content: left;
+    align-items: center;
+    width: 40rem;
+    height: 20rem;
+    margin-top: 2rem;
+}
+
+.galleryContainer .card {
+    flex-basis: 18rem;
+    flex-shrink: 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 18rem;
+    height: 18rem;
+}
+
+.card .containerImg {
+    height: 80%;
+    overflow-x: hidden;
+}
+
+.containerImg .img2 {
+    max-height: 100%;
+    width: auto;
+}

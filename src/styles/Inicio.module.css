@@ -1,0 +1,15 @@
+.inicio-card {
+    width: 15rem;
+    height: 15rem;
+}
+
+.inicio-card:hover {
+    cursor: pointer;
+}
+
+.inicio-card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
